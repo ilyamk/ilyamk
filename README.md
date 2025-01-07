@@ -1,7 +1,6 @@
 # Hi 👋 I'm Ilia.eth
 ## Web3 and ASI stealth contributor
 
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maksimenka) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ilia_0x) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@web3_nation) 
 
 ![ilyamk github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=ilyamk)
