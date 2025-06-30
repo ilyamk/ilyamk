@@ -1,5 +1,5 @@
-# Hi 👋 I'm Ilia.eth
-## Web3 and ASI stealth contributor
+# Hi 👋 I'm Ilia AI
+## Web3, AI agents and ASI stealth contributor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maksimenka) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ilia_0x) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@web3_nation) 
 
