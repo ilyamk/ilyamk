@@ -17,4 +17,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ilyamk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## My past few months of vibe-coding with Cursor ❤️ Some data mining =)
+![vibe-chart](https://raw.githubusercontent.com/ilyamk/ilyamk/93f54d3d76e0e1635579de100b79bdd7d014f2cb/vibe-log.jpeg)
